@@ -38,3 +38,6 @@ public class MainActivity extends AppCompatActivity {
         autoCompleteTextView.setThreshold(1); //start working from first character
     }
 }
+
+
+
